@@ -1,0 +1,15 @@
+D:\study\JCTODAT\first\ProductRepo\bin\Debug\net8.0\ProductRepo.deps.json
+D:\study\JCTODAT\first\ProductRepo\bin\Debug\net8.0\ProductRepo.dll
+D:\study\JCTODAT\first\ProductRepo\bin\Debug\net8.0\ProductRepo.pdb
+D:\study\JCTODAT\first\ProductRepo\bin\Debug\net8.0\ProductModel.dll
+D:\study\JCTODAT\first\ProductRepo\bin\Debug\net8.0\ProductModel.pdb
+D:\study\JCTODAT\first\ProductRepo\obj\Debug\net8.0\ProductRepo.csproj.AssemblyReference.cache
+D:\study\JCTODAT\first\ProductRepo\obj\Debug\net8.0\ProductRepo.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\JCTODAT\first\ProductRepo\obj\Debug\net8.0\ProductRepo.AssemblyInfoInputs.cache
+D:\study\JCTODAT\first\ProductRepo\obj\Debug\net8.0\ProductRepo.AssemblyInfo.cs
+D:\study\JCTODAT\first\ProductRepo\obj\Debug\net8.0\ProductRepo.csproj.CoreCompileInputs.cache
+D:\study\JCTODAT\first\ProductRepo\obj\Debug\net8.0\ProductR.4DD4F0D7.Up2Date
+D:\study\JCTODAT\first\ProductRepo\obj\Debug\net8.0\ProductRepo.dll
+D:\study\JCTODAT\first\ProductRepo\obj\Debug\net8.0\refint\ProductRepo.dll
+D:\study\JCTODAT\first\ProductRepo\obj\Debug\net8.0\ProductRepo.pdb
+D:\study\JCTODAT\first\ProductRepo\obj\Debug\net8.0\ref\ProductRepo.dll

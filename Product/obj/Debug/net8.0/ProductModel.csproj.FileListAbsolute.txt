@@ -1,0 +1,11 @@
+D:\study\JCTODAT\first\Product\bin\Debug\net8.0\ProductModel.deps.json
+D:\study\JCTODAT\first\Product\bin\Debug\net8.0\ProductModel.dll
+D:\study\JCTODAT\first\Product\bin\Debug\net8.0\ProductModel.pdb
+D:\study\JCTODAT\first\Product\obj\Debug\net8.0\ProductModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\JCTODAT\first\Product\obj\Debug\net8.0\ProductModel.AssemblyInfoInputs.cache
+D:\study\JCTODAT\first\Product\obj\Debug\net8.0\ProductModel.AssemblyInfo.cs
+D:\study\JCTODAT\first\Product\obj\Debug\net8.0\ProductModel.csproj.CoreCompileInputs.cache
+D:\study\JCTODAT\first\Product\obj\Debug\net8.0\ProductModel.dll
+D:\study\JCTODAT\first\Product\obj\Debug\net8.0\refint\ProductModel.dll
+D:\study\JCTODAT\first\Product\obj\Debug\net8.0\ProductModel.pdb
+D:\study\JCTODAT\first\Product\obj\Debug\net8.0\ref\ProductModel.dll

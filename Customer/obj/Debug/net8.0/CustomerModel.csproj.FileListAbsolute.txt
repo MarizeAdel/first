@@ -1,0 +1,11 @@
+D:\study\JCTODAT\first\Customer\bin\Debug\net8.0\CustomerModel.deps.json
+D:\study\JCTODAT\first\Customer\bin\Debug\net8.0\CustomerModel.dll
+D:\study\JCTODAT\first\Customer\bin\Debug\net8.0\CustomerModel.pdb
+D:\study\JCTODAT\first\Customer\obj\Debug\net8.0\CustomerModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\JCTODAT\first\Customer\obj\Debug\net8.0\CustomerModel.AssemblyInfoInputs.cache
+D:\study\JCTODAT\first\Customer\obj\Debug\net8.0\CustomerModel.AssemblyInfo.cs
+D:\study\JCTODAT\first\Customer\obj\Debug\net8.0\CustomerModel.csproj.CoreCompileInputs.cache
+D:\study\JCTODAT\first\Customer\obj\Debug\net8.0\CustomerModel.dll
+D:\study\JCTODAT\first\Customer\obj\Debug\net8.0\refint\CustomerModel.dll
+D:\study\JCTODAT\first\Customer\obj\Debug\net8.0\CustomerModel.pdb
+D:\study\JCTODAT\first\Customer\obj\Debug\net8.0\ref\CustomerModel.dll

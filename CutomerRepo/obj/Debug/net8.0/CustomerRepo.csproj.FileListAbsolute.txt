@@ -1,0 +1,15 @@
+D:\study\JCTODAT\first\CutomerRepo\bin\Debug\net8.0\CustomerRepo.deps.json
+D:\study\JCTODAT\first\CutomerRepo\bin\Debug\net8.0\CustomerRepo.dll
+D:\study\JCTODAT\first\CutomerRepo\bin\Debug\net8.0\CustomerRepo.pdb
+D:\study\JCTODAT\first\CutomerRepo\bin\Debug\net8.0\CustomerModel.dll
+D:\study\JCTODAT\first\CutomerRepo\bin\Debug\net8.0\CustomerModel.pdb
+D:\study\JCTODAT\first\CutomerRepo\obj\Debug\net8.0\CustomerRepo.csproj.AssemblyReference.cache
+D:\study\JCTODAT\first\CutomerRepo\obj\Debug\net8.0\CustomerRepo.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\JCTODAT\first\CutomerRepo\obj\Debug\net8.0\CustomerRepo.AssemblyInfoInputs.cache
+D:\study\JCTODAT\first\CutomerRepo\obj\Debug\net8.0\CustomerRepo.AssemblyInfo.cs
+D:\study\JCTODAT\first\CutomerRepo\obj\Debug\net8.0\CustomerRepo.csproj.CoreCompileInputs.cache
+D:\study\JCTODAT\first\CutomerRepo\obj\Debug\net8.0\Customer.D94BB9EA.Up2Date
+D:\study\JCTODAT\first\CutomerRepo\obj\Debug\net8.0\CustomerRepo.dll
+D:\study\JCTODAT\first\CutomerRepo\obj\Debug\net8.0\refint\CustomerRepo.dll
+D:\study\JCTODAT\first\CutomerRepo\obj\Debug\net8.0\CustomerRepo.pdb
+D:\study\JCTODAT\first\CutomerRepo\obj\Debug\net8.0\ref\CustomerRepo.dll
