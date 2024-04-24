@@ -7,7 +7,11 @@ namespace OrderModel
     {
         public int Id { get; set; }
         public Customer customer { get; set; }
-        public Product[] proudcts { get; set; }
+        public List<Product> products = new List<Product>();
+        public void AddProuduct(Product prouduct)
+        {
+            products.Add(prouduct);
+        }
 
     }
 }

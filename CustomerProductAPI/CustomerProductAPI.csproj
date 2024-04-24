@@ -13,7 +13,9 @@
   <ItemGroup>
     <ProjectReference Include="..\Customer\CustomerModel.csproj" />
     <ProjectReference Include="..\CutomerRepo\CustomerRepo.csproj" />
+    <ProjectReference Include="..\OrderModel\OrderModel.csproj" />
     <ProjectReference Include="..\ProductRepo\ProductRepo.csproj" />
+    <ProjectReference Include="..\Product\ProductModel.csproj" />
   </ItemGroup>
 
 </Project>

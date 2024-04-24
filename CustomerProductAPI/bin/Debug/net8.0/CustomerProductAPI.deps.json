@@ -10,6 +10,8 @@
         "dependencies": {
           "CustomerModel": "1.0.0",
           "CustomerRepo": "1.0.0",
+          "OrderModel": "1.0.0",
+          "ProductModel": "1.0.0",
           "ProductRepo": "1.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
@@ -75,6 +77,15 @@
         },
         "runtime": {
           "CustomerRepo.dll": {}
+        }
+      },
+      "OrderModel/1.0.0": {
+        "dependencies": {
+          "CustomerModel": "1.0.0",
+          "ProductModel": "1.0.0"
+        },
+        "runtime": {
+          "OrderModel.dll": {}
         }
       },
       "ProductModel/1.0.0": {
@@ -146,6 +157,11 @@
       "sha512": ""
     },
     "CustomerRepo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderModel/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

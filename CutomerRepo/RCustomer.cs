@@ -6,7 +6,7 @@ namespace CustomerRepo
 {
     public class RCustomer
     {
-        private List<Customer> _customers=new List<Customer>();
+        public List<Customer> _customers=new List<Customer>();
         
 
        
