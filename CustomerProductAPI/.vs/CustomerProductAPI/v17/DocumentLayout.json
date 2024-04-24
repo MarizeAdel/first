@@ -3,22 +3,22 @@
   "WorkspaceRootPath": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|d:\\study\\jctodat\\first\\customerproductapi\\customerproductapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|solutionrelative:customerproductapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|d:\\study\\jctodat\\first\\customerproductapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|d:\\study\\jctodat\\first\\customerproductapi\\controllers\\prouductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|solutionrelative:controllers\\prouductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C658EBC8-10E7-487F-B7FB-CC3663131690}|..\\CutomerRepo\\CustomerRepo.csproj|d:\\study\\jctodat\\first\\cutomerrepo\\rcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1668ED29-B88F-4E3C-8DA2-DE1FA6479387}|..\\Product\\ProductModel.csproj|d:\\study\\jctodat\\first\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|d:\\study\\jctodat\\first\\customerproductapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1668ED29-B88F-4E3C-8DA2-DE1FA6479387}|..\\Product\\Product.csproj|d:\\study\\jctodat\\first\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|D:\\study\\JCTODAT\\first\\CustomerProductAPI\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F22B09-F108-4A99-BE1D-4116B904195C}|..\\OrderModel\\OrderModel.csproj|d:\\study\\jctodat\\first\\ordermodel\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,34 +28,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomerProductAPI.http",
-              "DocumentMoniker": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\CustomerProductAPI.http",
-              "RelativeDocumentMoniker": "CustomerProductAPI.http",
-              "ToolTip": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\CustomerProductAPI.http",
-              "RelativeToolTip": "CustomerProductAPI.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-04-23T12:42:07.856Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAACgmZmZmZktwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:50:25.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
               "ToolTip": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "Controllers\\CustomerController.cs",
-              "ViewState": "AQIAAA0AAACAmZmZmZklwBkAAAANAAAA",
+              "ViewState": "AQIAAA4AAAAwMzMzMzM0wBcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T12:37:32.835Z",
               "EditorCaption": ""
@@ -63,40 +63,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\study\\JCTODAT\\first\\Product\\Product.cs",
-              "RelativeDocumentMoniker": "..\\Product\\Product.cs",
-              "ToolTip": "D:\\study\\JCTODAT\\first\\Product\\Product.cs",
-              "RelativeToolTip": "..\\Product\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T12:28:58.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProuductController.cs",
-              "DocumentMoniker": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\Controllers\\ProuductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProuductController.cs",
-              "ToolTip": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\Controllers\\ProuductController.cs",
-              "RelativeToolTip": "Controllers\\ProuductController.cs",
-              "ViewState": "AQIAAAsAAABgZmZmZmYswBIAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T12:28:06.346Z",
+              "WhenOpened": "2024-04-24T10:10:24.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\study\\JCTODAT\\first\\Product\\Product.cs",
-              "RelativeDocumentMoniker": "..\\Product\\Product.cs",
-              "ToolTip": "D:\\study\\JCTODAT\\first\\Product\\Product.cs",
-              "RelativeToolTip": "..\\Product\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\study\\JCTODAT\\first\\OrderModel\\Order.cs",
+              "RelativeDocumentMoniker": "..\\OrderModel\\Order.cs",
+              "ToolTip": "D:\\study\\JCTODAT\\first\\OrderModel\\Order.cs",
+              "RelativeToolTip": "..\\OrderModel\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T10:06:58.112Z"
+              "WhenOpened": "2024-04-24T10:07:54.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RCustomer.cs",
+              "DocumentMoniker": "D:\\study\\JCTODAT\\first\\CutomerRepo\\RCustomer.cs",
+              "RelativeDocumentMoniker": "..\\CutomerRepo\\RCustomer.cs",
+              "ToolTip": "D:\\study\\JCTODAT\\first\\CutomerRepo\\RCustomer.cs",
+              "RelativeToolTip": "..\\CutomerRepo\\RCustomer.cs",
+              "ViewState": "AQIAAAQAAACAMzMzMzMLwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:44:00.058Z",
+              "EditorCaption": ""
             }
           ]
         }

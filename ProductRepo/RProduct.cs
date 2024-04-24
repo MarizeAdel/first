@@ -2,11 +2,11 @@
 
 namespace ProductRepo
 {
-    public class RProuduct
+    public class RProduct
     {
         private List<Product> _Prouducts;
 
-        public RProuduct()
+        public RProduct()
         {
             // Initialize the Products list
             _Prouducts = new List<Product>();

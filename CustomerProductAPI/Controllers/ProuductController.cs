@@ -8,17 +8,17 @@ namespace CustomerProductAPI.Controllers
      [Route("[controller]")]
     public class ProuductController: ControllerBase
     {
-        public RProuduct PRepo = new RProuduct();
+        public RProduct PRepo = new RProduct();
 
             [HttpGet(Name = "GetProuducts")]
-            public ActionResult<RProuduct> Get()
+            public ActionResult<Product> Get()
             {
                 try
                 {
                     var products = PRepo.GetAll();
                     if (products == null )
                     {
-                        return NotFound(); // Return 404 if no customers found
+                        return NotFound(); // Return 404 if no prouduc found
                     }
                     return Ok(products); // Return 200 with customers
                 }
@@ -29,7 +29,7 @@ namespace CustomerProductAPI.Controllers
             }
 
             [HttpPost]
-            public ActionResult<RProuduct> Post([FromBody] Product product)
+            public ActionResult<Product> Post([FromBody] Product product)
             {
                 if (!ModelState.IsValid)
                 {
@@ -39,7 +39,7 @@ namespace CustomerProductAPI.Controllers
                 try
                 {
                     PRepo.AddProduct(product);
-                    return CreatedAtAction(nameof(Get), PRepo); // Return 201 with created customer
+                    return CreatedAtAction(nameof(Get), product); // Return 201 with created customer
                 }
                 catch (Exception ex)
                 {

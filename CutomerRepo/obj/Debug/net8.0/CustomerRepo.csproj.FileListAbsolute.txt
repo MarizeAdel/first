@@ -13,3 +13,4 @@ D:\study\JCTODAT\first\CutomerRepo\obj\Debug\net8.0\CustomerRepo.dll
 D:\study\JCTODAT\first\CutomerRepo\obj\Debug\net8.0\refint\CustomerRepo.dll
 D:\study\JCTODAT\first\CutomerRepo\obj\Debug\net8.0\CustomerRepo.pdb
 D:\study\JCTODAT\first\CutomerRepo\obj\Debug\net8.0\ref\CustomerRepo.dll
+D:\study\JCTODAT\first\CutomerRepo\obj\Debug\net8.0\CustomerRepo.sourcelink.json

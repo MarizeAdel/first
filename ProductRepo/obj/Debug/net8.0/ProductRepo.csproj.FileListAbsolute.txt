@@ -13,3 +13,4 @@ D:\study\JCTODAT\first\ProductRepo\obj\Debug\net8.0\ProductRepo.dll
 D:\study\JCTODAT\first\ProductRepo\obj\Debug\net8.0\refint\ProductRepo.dll
 D:\study\JCTODAT\first\ProductRepo\obj\Debug\net8.0\ProductRepo.pdb
 D:\study\JCTODAT\first\ProductRepo\obj\Debug\net8.0\ref\ProductRepo.dll
+D:\study\JCTODAT\first\ProductRepo\obj\Debug\net8.0\ProductRepo.sourcelink.json

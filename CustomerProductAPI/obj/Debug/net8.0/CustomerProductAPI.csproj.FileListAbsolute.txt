@@ -38,3 +38,4 @@ D:\study\JCTODAT\first\CustomerProductAPI\bin\Debug\net8.0\ProductModel.dll
 D:\study\JCTODAT\first\CustomerProductAPI\bin\Debug\net8.0\ProductRepo.dll
 D:\study\JCTODAT\first\CustomerProductAPI\bin\Debug\net8.0\ProductRepo.pdb
 D:\study\JCTODAT\first\CustomerProductAPI\bin\Debug\net8.0\ProductModel.pdb
+D:\study\JCTODAT\first\CustomerProductAPI\obj\Debug\net8.0\CustomerProductAPI.sourcelink.json
