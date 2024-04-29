@@ -13,6 +13,7 @@
           "OrderModel": "1.0.0",
           "ProductModel": "1.0.0",
           "ProductRepo": "1.0.0",
+          "ROrder": "1.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
@@ -100,6 +101,14 @@
         "runtime": {
           "ProductRepo.dll": {}
         }
+      },
+      "ROrder/1.0.0": {
+        "dependencies": {
+          "OrderModel": "1.0.0"
+        },
+        "runtime": {
+          "ROrder.dll": {}
+        }
       }
     }
   },
@@ -172,6 +181,11 @@
       "sha512": ""
     },
     "ProductRepo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ROrder/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -148,6 +148,19 @@
         "runtime": {
           "bin/placeholder/ProductRepo.dll": {}
         }
+      },
+      "ROrder/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "OrderModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ROrder.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ROrder.dll": {}
+        }
       }
     }
   },
@@ -505,6 +518,11 @@
       "type": "project",
       "path": "../ProductRepo/ProductRepo.csproj",
       "msbuildProject": "../ProductRepo/ProductRepo.csproj"
+    },
+    "ROrder/1.0.0": {
+      "type": "project",
+      "path": "../ROrder/ROrder.csproj",
+      "msbuildProject": "../ROrder/ROrder.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -514,6 +532,7 @@
       "OrderModel >= 1.0.0",
       "ProductModel >= 1.0.0",
       "ProductRepo >= 1.0.0",
+      "ROrder >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -558,6 +577,9 @@
             },
             "D:\\study\\JCTODAT\\first\\Product\\ProductModel.csproj": {
               "projectPath": "D:\\study\\JCTODAT\\first\\Product\\ProductModel.csproj"
+            },
+            "D:\\study\\JCTODAT\\first\\ROrder\\ROrder.csproj": {
+              "projectPath": "D:\\study\\JCTODAT\\first\\ROrder\\ROrder.csproj"
             }
           }
         }

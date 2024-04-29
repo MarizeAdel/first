@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using OrderModel;
 using ProductModel;
+using ROrder;
 
 namespace CustomerProductAPI.Controllers
 {
@@ -9,13 +10,13 @@ namespace CustomerProductAPI.Controllers
     [Route("[controller]")]
     public class OrderController : ControllerBase
     {
-        Order order=new Order();
+        public static OrderRepo Repo;
         [HttpGet]
         public ActionResult<Product[]> Get()
         {
             try
             {
-                var o1 = order.products;
+                var o1 = Repo.order.GetAll();
                 if(o1 == null)
                 {
                     return NotFound(); // Return 404 
@@ -32,20 +33,38 @@ namespace CustomerProductAPI.Controllers
         {
             try
             {
-                if(p1 == null)
+                if (p1 == null)
                 {
                     return NotFound(); // Return 404 
 
                 }
-                order.AddProuduct(p1);
+                Repo.order.AddProuduct(p1);
                 return Ok();
             }
-            catch (Exception ex) {
+            catch (Exception ex)
+            {
                 return StatusCode(500, $"Internal server error: {ex.Message}");
+
+            }
+        }
+
+        [HttpPost("create")]
+
+        public ActionResult Post([FromBody] Customer c1)
+            {
+                try
+                {
+                    Repo= new OrderRepo(c1);
+
+                    return Ok();
+                }
+                catch (Exception ex)
+                {
+                    return StatusCode(500, $"Internal server error: {ex.Message}");
+
+                }
 
             }
 
         }
-
-    }
 }

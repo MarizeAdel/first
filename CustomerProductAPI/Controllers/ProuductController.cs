@@ -8,7 +8,7 @@ namespace CustomerProductAPI.Controllers
      [Route("[controller]")]
     public class ProuductController: ControllerBase
     {
-        public RProduct PRepo = new RProduct();
+        public static RProduct PRepo = new RProduct();
 
             [HttpGet(Name = "GetProuducts")]
             public ActionResult<Product> Get()

@@ -42,6 +42,9 @@
               },
               "D:\\study\\JCTODAT\\first\\Product\\ProductModel.csproj": {
                 "projectPath": "D:\\study\\JCTODAT\\first\\Product\\ProductModel.csproj"
+              },
+              "D:\\study\\JCTODAT\\first\\ROrder\\ROrder.csproj": {
+                "projectPath": "D:\\study\\JCTODAT\\first\\ROrder\\ROrder.csproj"
               }
             }
           }
@@ -368,6 +371,70 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\study\\JCTODAT\\first\\ROrder\\ROrder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\study\\JCTODAT\\first\\ROrder\\ROrder.csproj",
+        "projectName": "ROrder",
+        "projectPath": "D:\\study\\JCTODAT\\first\\ROrder\\ROrder.csproj",
+        "packagesPath": "C:\\Users\\mariz\\.nuget\\packages\\",
+        "outputPath": "D:\\study\\JCTODAT\\first\\ROrder\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mariz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\study\\JCTODAT\\first\\OrderModel\\OrderModel.csproj": {
+                "projectPath": "D:\\study\\JCTODAT\\first\\OrderModel\\OrderModel.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

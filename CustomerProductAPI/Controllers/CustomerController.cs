@@ -11,17 +11,16 @@ namespace CustomerProductAPI.Controllers
     [Route("[controller]")]
     public class CustomerController : ControllerBase
     {
-        public RCustomer Repo;
-        public CustomerController() {
-            Repo = new RCustomer();
-        }
+        public static RCustomer Repo=new RCustomer();
+        
         
         [HttpGet]
         public ActionResult<List<Customer>> Get()
         {
             try
             {
-                List<Customer> customers = Repo.GetAll();
+                var customers = Repo.GetAll();
+                
                 if (customers == null )
                 {
                     return NotFound(); // Return 404 if no customers found
@@ -35,19 +34,16 @@ namespace CustomerProductAPI.Controllers
             }
         }
         
-        [HttpPost]
-        public ActionResult<Customer> Post([FromBody] Customer customer)
-        {
-            
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState); // Return 400 for invalid input
-            }
 
+        [HttpPost]
+        public  ActionResult  Post([FromBody] Customer customer)
+        {
             try
             {
-                Repo.AddCustomer(customer.ID, customer.Name);
-                return CreatedAtAction(nameof(Get), customer); // Return 201 with created customer
+                Repo.AddCustomer(new Customer (customer.ID,customer.Name));
+
+                return CreatedAtAction(nameof(Get), Repo.GetAll()); // Return 201 with created customer
+                
             }
             
             catch (Exception ex)

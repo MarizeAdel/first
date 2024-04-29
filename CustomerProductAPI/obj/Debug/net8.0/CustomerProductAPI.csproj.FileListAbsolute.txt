@@ -41,3 +41,5 @@ D:\study\JCTODAT\first\CustomerProductAPI\bin\Debug\net8.0\ProductModel.pdb
 D:\study\JCTODAT\first\CustomerProductAPI\obj\Debug\net8.0\CustomerProductAPI.sourcelink.json
 D:\study\JCTODAT\first\CustomerProductAPI\bin\Debug\net8.0\OrderModel.dll
 D:\study\JCTODAT\first\CustomerProductAPI\bin\Debug\net8.0\OrderModel.pdb
+D:\study\JCTODAT\first\CustomerProductAPI\bin\Debug\net8.0\ROrder.dll
+D:\study\JCTODAT\first\CustomerProductAPI\bin\Debug\net8.0\ROrder.pdb

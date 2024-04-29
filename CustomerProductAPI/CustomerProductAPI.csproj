@@ -16,6 +16,7 @@
     <ProjectReference Include="..\OrderModel\OrderModel.csproj" />
     <ProjectReference Include="..\ProductRepo\ProductRepo.csproj" />
     <ProjectReference Include="..\Product\ProductModel.csproj" />
+    <ProjectReference Include="..\ROrder\ROrder.csproj" />
   </ItemGroup>
 
 </Project>

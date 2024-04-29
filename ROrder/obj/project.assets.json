@@ -1,0 +1,130 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "CustomerModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CustomerModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CustomerModel.dll": {}
+        }
+      },
+      "OrderModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CustomerModel": "1.0.0",
+          "ProductModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OrderModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OrderModel.dll": {}
+        }
+      },
+      "ProductModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ProductModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProductModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomerModel/1.0.0": {
+      "type": "project",
+      "path": "../Customer/CustomerModel.csproj",
+      "msbuildProject": "../Customer/CustomerModel.csproj"
+    },
+    "OrderModel/1.0.0": {
+      "type": "project",
+      "path": "../OrderModel/OrderModel.csproj",
+      "msbuildProject": "../OrderModel/OrderModel.csproj"
+    },
+    "ProductModel/1.0.0": {
+      "type": "project",
+      "path": "../Product/ProductModel.csproj",
+      "msbuildProject": "../Product/ProductModel.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "OrderModel >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mariz\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\study\\JCTODAT\\first\\ROrder\\ROrder.csproj",
+      "projectName": "ROrder",
+      "projectPath": "D:\\study\\JCTODAT\\first\\ROrder\\ROrder.csproj",
+      "packagesPath": "C:\\Users\\mariz\\.nuget\\packages\\",
+      "outputPath": "D:\\study\\JCTODAT\\first\\ROrder\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mariz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\study\\JCTODAT\\first\\OrderModel\\OrderModel.csproj": {
+              "projectPath": "D:\\study\\JCTODAT\\first\\OrderModel\\OrderModel.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

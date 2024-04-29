@@ -6,7 +6,7 @@ namespace CustomerRepo
 {
     public class RCustomer
     {
-        public List<Customer> _customers=new List<Customer>();
+        private List<Customer> _customers=new List<Customer>();
         
 
        
@@ -16,10 +16,10 @@ namespace CustomerRepo
             return _customers;
         }
 
-        public void AddCustomer(int id,string name)
+        public void AddCustomer(Customer c)
         {
             // Add a new customer to the list
-            _customers.Add(new Customer(id,name));
+            _customers.Add(c);
         }
 
     }

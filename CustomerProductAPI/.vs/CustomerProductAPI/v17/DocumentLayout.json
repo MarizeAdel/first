@@ -3,18 +3,31 @@
   "WorkspaceRootPath": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|D:\\study\\JCTODAT\\first\\CustomerProductAPI\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|d:\\study\\jctodat\\first\\customerproductapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|d:\\study\\jctodat\\first\\customerproductapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{144C3FF8-DB04-4426-ABAF-C761504CFEA2}|..\\ROrder\\ROrder.csproj|d:\\study\\jctodat\\first\\rorder\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15F22B09-F108-4A99-BE1D-4116B904195C}|..\\OrderModel\\OrderModel.csproj|d:\\study\\jctodat\\first\\ordermodel\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C658EBC8-10E7-487F-B7FB-CC3663131690}|..\\CutomerRepo\\CustomerRepo.csproj|d:\\study\\jctodat\\first\\cutomerrepo\\rcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C658EBC8-10E7-487F-B7FB-CC3663131690}|..\\CutomerRepo\\CustomerRepo.csproj|d:\\study\\jctodat\\first\\cutomerrepo\\customerrepo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|D:\\study\\JCTODAT\\first\\CustomerProductAPI\\controllers\\prouductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|solutionrelative:controllers\\prouductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|D:\\study\\JCTODAT\\first\\CustomerProductAPI\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F22B09-F108-4A99-BE1D-4116B904195C}|..\\OrderModel\\OrderModel.csproj|d:\\study\\jctodat\\first\\ordermodel\\ordermodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBF8787C-D34F-4E53-931D-9C001F02B670}|CustomerProductAPI.csproj|D:\\study\\JCTODAT\\first\\CustomerProductAPI\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -36,20 +49,83 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerRepo",
+              "DocumentMoniker": "D:\\study\\JCTODAT\\first\\CutomerRepo\\CustomerRepo.csproj",
+              "RelativeDocumentMoniker": "..\\CutomerRepo\\CustomerRepo.csproj",
+              "ToolTip": "D:\\study\\JCTODAT\\first\\CutomerRepo\\CustomerRepo.csproj",
+              "RelativeToolTip": "..\\CutomerRepo\\CustomerRepo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T16:19:29.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "D:\\study\\JCTODAT\\first\\ROrder\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "..\\ROrder\\OrderRepo.cs",
+              "ToolTip": "D:\\study\\JCTODAT\\first\\ROrder\\OrderRepo.cs",
+              "RelativeToolTip": "..\\ROrder\\OrderRepo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:16:26.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProuductController.cs",
+              "DocumentMoniker": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\Controllers\\ProuductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProuductController.cs",
+              "ToolTip": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\Controllers\\ProuductController.cs",
+              "RelativeToolTip": "Controllers\\ProuductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:03:41.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAADUAAAAAMzMzMzMrwDcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:10:24.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderModel.csproj",
+              "DocumentMoniker": "D:\\study\\JCTODAT\\first\\OrderModel\\OrderModel.csproj",
+              "RelativeDocumentMoniker": "..\\OrderModel\\OrderModel.csproj",
+              "ToolTip": "D:\\study\\JCTODAT\\first\\OrderModel\\OrderModel.csproj",
+              "RelativeToolTip": "..\\OrderModel\\OrderModel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T12:00:29.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
               "ToolTip": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "Controllers\\CustomerController.cs",
-              "ViewState": "AQIAABQAAAAAZmZmZmYGwCEAAAARAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T12:37:32.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T12:37:32.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -61,26 +137,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
-              "ToolTip": "D:\\study\\JCTODAT\\first\\CustomerProductAPI\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "Controllers\\OrderController.cs",
-              "ViewState": "AQIAAA4AAABAZmZmZmYOwBYAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T10:10:24.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\study\\JCTODAT\\first\\OrderModel\\Order.cs",
               "RelativeDocumentMoniker": "..\\OrderModel\\Order.cs",
               "ToolTip": "D:\\study\\JCTODAT\\first\\OrderModel\\Order.cs",
               "RelativeToolTip": "..\\OrderModel\\Order.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAWwAkAAAA6AAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswAkAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T10:07:54.177Z",
               "EditorCaption": ""
@@ -93,7 +156,7 @@
               "RelativeDocumentMoniker": "..\\CutomerRepo\\RCustomer.cs",
               "ToolTip": "D:\\study\\JCTODAT\\first\\CutomerRepo\\RCustomer.cs",
               "RelativeToolTip": "..\\CutomerRepo\\RCustomer.cs",
-              "ViewState": "AQIAAAQAAACAMzMzMzMLwAgAAAAOAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAgAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T08:44:00.058Z",
               "EditorCaption": ""
